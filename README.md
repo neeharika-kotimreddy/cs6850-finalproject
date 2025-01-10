@@ -1,6 +1,6 @@
 # Cascade Models with Transaction Costs and Temporal Components
 
-This project extends the classical Watts threshold model by incorporating transaction costs and temporal components to analyze cascading behavior in networks. The study provides insights into the impact of these factors on cascade frequency, size, and nature, with applications in domains such as financial markets and social networks.
+This project extends the classical Watts threshold model by incorporating transaction costs and temporal components to analyze cascading behavior in networks. The study provides insights into the impact of these factors on cascade frequency, size, and nature, with applications in domains such as financial markets and social networks. This is my final project for the class CS 6850: Structure of Information Networks, which I took at Cornell the fall 2024 semester.
 
 
 ## Description
@@ -9,12 +9,7 @@ Information cascades occur when individuals imitate others' behaviors, often ign
 - **Transaction Costs**: These include trading fees and search costs that influence economic decisions.
 - **Temporal Components**: These represent dynamic interactions over time, where connections between individuals activate and deactivate intermittently.
 
-The model simulates cascades across three network topologies:
-1. Random Networks
-2. Scale-Free Networks
-3. Spatially-Clustered Networks
-
-Key metrics, such as gross information cascades and trend shift cascades, are used to evaluate the impact of these factors on cascading behavior. The findings reveal the interplay between economic constraints and temporal dynamics, providing a nuanced understanding of cascade propagation in networks.
+The model simulates cascades across three network topologies: (1) Random Networks, (2) Scale-Free Networks, and (3) Spatially-Clustered Networks. Key metrics, such as gross information cascades and trend shift cascades, are used to evaluate the impact of these factors on cascading behavior. The findings reveal the interplay between economic constraints and temporal dynamics, providing a nuanced understanding of cascade propagation in networks.
 
 ---
 
